@@ -30,7 +30,7 @@
 
 ### Skills
 
-- **Languages**: JavaScript, HTML, CSS, PHP, Python, R, C, C#
+- **Languages**: JavaScript, HTML, CSS, PHP, Python, R, C, CSS
 - **Web Development**: Front-end (HTML, CSS, JavaScript), Back-end (PHP, Flask, Django)
 - **Databases**: MySQL
 - **Machine Learning**: Decision Trees, Random Forest, Hyperparameter Tuning, Matrix Factorization
