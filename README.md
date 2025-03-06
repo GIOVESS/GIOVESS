@@ -42,7 +42,8 @@
 
 ### About Me
 
-I'm a passionate and versatile software developer with a strong foundation in both front-end and back-end technologies. I specialize in creating responsive and efficient web applications, and I'm constantly exploring new tools and frameworks to improve my skills. My expertise includes web development (HTML, CSS, JavaScript, PHP) and databases (MySQL), as well as data science (Python, R) and machine learning together with python frameworks (Flask, Django, Jupyter).
+I’m a passionate and versatile software developer with a strong foundation in both front-end and back-end technologies. I specialize in creating responsive and efficient web applications while constantly exploring new tools and frameworks to enhance my skills. My expertise spans web development with HTML, CSS, JavaScript, PHP, and frameworks like Next.js, React, and Tailwind CSS. On the backend, I work with Python (Django, Flask) and Ruby on Rails, leveraging databases such as PostgreSQL, MySQL, and SQLite with a focus on performance tuning, replication, and security. In data science and machine learning, I am proficient in Python (Pandas, NumPy, Scikit-learn), R programming, and Power BI, utilizing frameworks like Jupyter for analytics and visualization. My DevOps skills include Git, Linux (Kali), shell scripting, cloud computing, and cybersecurity.
+
 
 Check out my [portfolio](https://www.mygreatlearning.com/eportfolio/giovanni-bwayo) for details on some of my machine learning projects!
 
