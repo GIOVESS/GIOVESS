@@ -38,7 +38,12 @@
   </a>
 </div>
 
----
 
-Check out my [portfolio](https://www.mygreatlearning.com/eportfolio/giovanni-bwayo) for details on some of my machine learning projects!
+<div align="left" style="display: flex; justify-content: center;">
+  <a href="https://github.com/GIOVESS">
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=7&theme=one_dark_pro"/>
+  </a>
+</div>
+
+Check out my [portfolio](https://v0-giovanni-bwayo.vercel.app/) for details on some of my projects!
 
