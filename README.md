@@ -42,7 +42,7 @@
 
 <div align="left" style="display: flex; justify-content: center;">
   <a href="https://github.com/GIOVESS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=10&theme=one_dark_pro"/>
+    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=6&theme=one_dark_pro"/>
   </a>
 </div>
 
