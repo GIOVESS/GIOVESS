@@ -30,7 +30,7 @@
 ### Contact
 
 <div> 
-  <a href="https://www.linkedin.com/in/giovanni-bwayo-63aa1b22b" target="_blank">
+  <a href="https://www.linkedin.com/in/giovanni-bwayo" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
 
@@ -42,9 +42,9 @@
 
 <div align="left" style="display: flex; justify-content: center;">
   <a href="https://github.com/GIOVESS">
-    <img height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=6&theme=one_dark_pro"/>
+    <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=8&theme=one_dark_pro"/>
   </a>
 </div>
 
-Check out my [portfolio](https://v0-giovanni-bwayo.vercel.app/) for details on some of my projects!
+Check out my [portfolio](https://giovanni-bwayo.vercel.app/) for details on some of my projects!
 
