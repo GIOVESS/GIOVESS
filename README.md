@@ -20,10 +20,10 @@
 
 ### Skills
 
-- **Languages**: JavaScript, HTML, CSS, PHP, Python, R, C, CSS
-- **Web Development**: Front-end (HTML, CSS, JavaScript), Back-end (PHP, Flask, Django)
-- **Databases**: MySQL, PostgreSQL, Oracle 
-- **Machine Learning**: Decision Trees, Random Forest, Hyperparameter Tuning, Matrix Factorization
+- **Languages**: JavaScript, HTML, CSS,React, Next JS, Typescript, PHP, Python, R, C, CSS, Ruby on Rails.
+- **Web Development**: Front-end (HTML, CSS, JavaScript, React, Typescript), Back-end (PHP, Flask, Django, Next JS)
+- **Databases**: MySQL, PostgreSQL, Prisma.
+- **Machine Learning**: Decision Trees, Random Forest, Hyperparameter Tuning, Matrix Factorization, Scikit-learn, Predictive Modelling.
 - **Data Science**: Exploratory Data Analysis, Data Visualization, Statistics
 - **Tools**: Git, Visual Studio Code, Jupyter Notebooks, Power BI
 
