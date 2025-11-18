@@ -19,8 +19,6 @@
 <img align="center" alt="Giovanni-VSCode" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
 <img align="center" alt="ArcGIS" height="35" src="https://simpleicons.org/icons/arcgis.svg">
 
-
-
 </div><br>
 
 ##  Skills Snapshot
@@ -36,21 +34,20 @@
 
 ##  GitHub Stats
 
-<div align="center">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&langs_count=8&theme=one_dark_pro"/>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GIOVESS&layout=compact&hide_progress=true&langs_count=8&theme=vision-friendly-dark"/>
 </div>
-
-
 
 
 ## Contact Me
 
-<div> 
-<a href="https://www.linkedin.com/in/giovanni-bwayo" target="_blank">
-<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-</a> 
+<div style="display: flex; gap: 10px; align-items: center;">
+  <a href="https://www.linkedin.com/in/giovanni-bwayo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 
-<a href="mailto:giovannibwayo@gmail.com">
-<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-</a>
+  <a href="mailto:giovannibwayo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
+
