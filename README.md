@@ -4,11 +4,11 @@
 ## Technologies and Tools:
 
 <div style="display: inline_block"><br>
-<img align="center" alt="Giovanni-Js" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Giovanni-HTML" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Giovanni-CSS" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Giovanni-Js" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="center" alt="Giovanni-HTML" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img align="center" alt="Giovanni-CSS" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img align="center" alt="Giovanni-Python" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="center" alt="Giovanni-PHP" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
-<img align="center" alt="Giovanni-Python" height="35" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="Giovanni-C" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="Giovanni-R" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
 <img align="center" alt="Giovanni-Flask" height="35" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
